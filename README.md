@@ -4,7 +4,7 @@
 # Features
 - 15 seconds block targets
 - 100,000,000 total coins
-- 500 coins per block until 50,000,000 coins. After that, 50 coins per block
+- 500 coins per block
 - difficulty retargets every 0.35 days
 - currently peers are looked up over IRC only
 
